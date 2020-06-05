@@ -124,3 +124,14 @@ footer.footer {
   padding-top: 4rem;
   padding-bottom: 4rem;
 }
+
+.flag {
+  margin-right: 10px;
+}
+
+.flag img {
+  height: 20px;
+  width: 30px;
+  border-radius: 2px;
+  box-shadow: 1px 1px 1px rgba(200,200,200,0.8);
+}
